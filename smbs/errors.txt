@@ -1,0 +1,15 @@
+need to add :
+1.carrers.html
+2.smbs-thankyou.html
+3.hire-thankyou.html
+4.free-trial-thankyou
+5.developers-legacy-technology-skills.html
+6.landing.html
+7.web portfolio.html
+8.privacy.html
+9.resume-recommendation-engine.html
+10.rename :risk-free-trial.html
+11.sitemap.html
+12.add image in software testing
+13.rename: solutions.html
+14.testing page.html

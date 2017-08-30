@@ -1,0 +1,74 @@
+.case-sty > h1 {
+  font-weight: bold;
+  text-align: center; }
+
+.case_studies li {
+  display: block;
+  text-align: left;
+  list-style: none;
+  padding: 20px 15px;
+  background: #ccc;
+  margin: 20px 0px;
+  overflow: hidden; }
+
+.case_studies img {
+  float: left; }
+
+.case_studies h1 {
+    float: left;
+    margin-left: 15px;
+    width: 60%;
+    margin-top: 0;
+    text-transform: inherit;
+        font-size: 32px;
+    line-height: 35px;
+   
+}
+
+.case_studies p {
+  float: left;
+  margin-left: 15px;
+  text-align: justify;
+  width: 60%;
+  margin-bottom: 11px;font-size: 16px; }
+
+.case_studies li a {
+  float: left;
+  margin-left: 15px; }
+  
+  .page-top {
+    padding: 40px 0;
+    background: #fff;
+    text-align: center;
+}.call-to-action p:nth-child(2) {
+    font-size: 26px !important;
+    font-weight: normal;
+}.call-size {
+    margin-top: 0px !important;
+}
+.call-size p {
+    margin-bottom: 10px !important;
+}
+
+
+  .page-top h1 {
+    text-transform: inherit;
+    margin-top: 22px;
+    font-size: 32px;
+}
+
+
+
+
+
+
+.page-top h1 {
+    font-weight: bold;
+    color: #e9424b !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-family: Raleway;
+    font-weight: 300;
+}
