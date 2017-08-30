@@ -1,0 +1,39 @@
+.section-image-overlay, .cover-image-overlay {
+    display: table-cell;
+    vertical-align: middle;
+    overflow: hidden;
+    padding: 50px;
+    padding: 5%;
+    z-index: 2;
+}
+.section-image-overlay {
+    min-height: 340px;
+}
+.section-image, .cover-image {
+    display: table;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-attachment: scroll;
+    background-position: top center;
+    background-color: #e7e7e7;
+    width: 100%;
+    position: relative;
+    vertical-align: top;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}

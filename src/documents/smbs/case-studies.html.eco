@@ -1,0 +1,84 @@
+---
+title: CASESTUDIES
+layout: smbs-default
+class: betabulls-enterprise-about
+entPageOrder: 5
+script:
+style: css/my-custom.css
+---
+			<span class="betabulls-enterprise-custom-software-development">
+				<div id="headerwrap" class="pure-g-r custom-soft-dev" >
+	<div class="pure-u-1 center">
+		<div class="banner-txt">
+			<h1>Case Studies</h1>
+			<h4></h4>
+		</div>
+	</div><!-- pure-u-1-->
+</div><!-- headerwrap -->
+
+<div class="container">
+	<div class="row center">
+		<div class="pure-u-2-3">
+			<div class="pure-g-r w">
+				<a name="WhatWeDo" id="WhatWeDo"></a>
+				<div class="pure-u-1 center case-sty">
+				<div style="width: 100%; margin: 0px auto; padding: 0px 0px 0px 0px; text-align: center;">
+					<h2 style=" font-weight:500;" align="center">Case Studies</h2>
+					<hr>
+				</div>
+				<!-- <h1>Custom Software Development</h1> -->
+					<ul class="case_studies">
+								<li id="#1930" class="card-casestdy">
+									<img src="img/casestudy/medical-enterprise-management-application.jpg" width="256" height="190" />
+									<h1>Medical Enterprise Management Application</h1>
+									<p>Centralizing sales, marketing, service, and practice management into a role-based enterprise management system.</p>
+									<a href="medical-enterprise-management-application.html" class="btn btn-primary"> View More</a>
+								</li>
+								<li id="#1900">
+										<h1 style="width:100%">Investment Planning Web Application</h1>
+										<p style="width:100%">Creating a self-service web application that helps account holders visualize, research options, and<br>make changes to their investment account.</p>
+										<a href="investment-planning-web-application.html" class="btn btn-primary"> View More</a>
+								</li>
+							</ul>
+		
+			<!-- <h1>Mobile Enablement</h1> -->
+				<ul class="case_studies">
+							<li id="#1930">
+								<img src="img/casestudy/social-professional-mentorship-application.png" width="256" />
+								<h1>Social Professional Mentorship Application</h1>
+								<p>A social network for finding mentors for professional projects.</p>
+								<a href="social-professional-mentorship-application.html" class="btn btn-primary"> View More</a>
+							</li>
+							<li id="#1900"><img src="img/casestudy/log-analytics-large.png" width="256" height="180"><br>
+								<h1>Log File Analytics</h1>
+								<p>Looking at log files from company servers to discover opportunities for raising revenues and reducing costs.<br>
+								<a class="btn btn-primary" href="case-study-log-file-analytics.html"> View More</a>
+								</p>
+							</li>
+							<li id="#1900">
+								<img src="img/casestudy/affiliate-marketing-sales-application.png" width="256" height="180" />
+								<h1>Affiliate Marketing Sales Application</h1>
+								<p>Making it simple for online marketers to earn income by finding and promoting great product deals for people to discover.</p>
+								<a href="affiliate-marketing-sales-application.html" class="btn btn-primary"> View More</a>
+							</li>
+						</ul>
+	</div><!-- .pure-u-1 .center -->
+			</div><!-- .pure-u-1 .center -->
+		</div>
+		<!-- container -->
+		<!-------------------------------------------->
+
+		<div class="pure-u-1-4 right-col1">
+			<div class="bck-contact"><!-- contact form start -->
+				<h3>Please Contact Us</h3>
+				<hr/>
+
+				<iframe class="contactus-card" src="https://form.jotform.me/61325937768468"></iframe>
+			</div><!-- contact form end -->
+  
+			 
+		</div>
+	</div>
+
+</div>
+			</span>

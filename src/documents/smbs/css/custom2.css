@@ -1,0 +1,124 @@
+.dedicate-mainhead {
+    text-transform: none;
+    margin: 33px auto 0!important;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 30px;
+}
+?sccss=1&ver=4.8.1:1
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-family: Raleway;
+    font-weight: 300;
+}
+style.css?ver=4.8.1:1
+h2 {
+    font-size: 24px;
+    font-weight: 500;
+}
+style.css?ver=4.8.1:1
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    text-transform: uppercase;
+}
+style.css?ver=4.8.1:1
+h1, h2, h3 {
+    font-weight: 300;
+}
+style.css?ver=4.8.1:1
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway",Arial,"Helvetica Neue",sans-serif;
+}
+bootstrap.min.css?ver=3.3.6:14
+h2, .h2 {
+    font-size: 34px;
+}
+bootstrap.min.css?ver=3.3.6:14
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 22px;
+    margin-bottom: 11px;
+}
+bootstrap.min.css?ver=3.3.6:14
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+bootstrap.min.css?ver=3.3.6:14
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+Inherited from body.page-template.page-template-page-fullwidth-noheader.page-template-page-fullwidth-noheader-php.page.page-id-596.has-header-image
+?sccss=1&ver=4.8.1:1
+body {
+    background-color: #f2f2f2;
+    color: #555;
+    font-family: Lato,arial;
+    font-size: 16px;
+    font-weight: 300;
+}
+style.css?ver=4.8.1:1
+body {
+    font-family: "Lato","Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+theme-base.css?ver=20160323:1
+body {
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+bootstrap.min.css?ver=3.3.6:14
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #f2f2f2;
+}
+Inherited from html.csstransforms.csstransforms3d.csstransitions
+?sccss=1&ver=4.8.1:1
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+bootstrap.min.css?ver=3.3.6:14
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+bootstrap.min.css?ver=3.3.6:14
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+bootstrap.min.css?ver=3.3.6:14
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+bootstrap.min.css?ver=3.3.6:14
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
